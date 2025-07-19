@@ -89,6 +89,3 @@ The goal is to **predict and analyze key drivers** influencing access to sustain
 
 ---
 
-## 🙏 Thank You
-
-Feel free to ⭐ this repo if you find the work inspiring or useful!
